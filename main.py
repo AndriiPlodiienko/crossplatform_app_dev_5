@@ -163,7 +163,7 @@ class ControllerApp:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    root.title("Опитувальник: Харчові звички")
+    root.title("Опитувальник: Харчові звички - variant - 5")
 
     app = ControllerApp(root)
 
